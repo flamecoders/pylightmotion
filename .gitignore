@@ -1,0 +1,5 @@
+.bkp
+.venv
+test/
+output.mp4
+main.py
